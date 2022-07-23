@@ -1,4 +1,5 @@
 # packaging
+termcolor
 pip>=9
 setuptools>=26
 twine
