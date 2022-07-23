@@ -16,7 +16,7 @@ def try_me():
 
     roll_again = "yes"
 
-    #The dice roll loop if the user wants to continue
+    #The dice roll loop if the user wants to continues
 
     while roll_again == "yes" or roll_again == "y":
 
@@ -37,4 +37,4 @@ def try_me():
         roll_again = input(colored("Roll the Dices Again?","yellow"))
 
     else:
-        print(colored("Game finished :D","blue"))
+        print(colored("Game finished! :D","blue"))
