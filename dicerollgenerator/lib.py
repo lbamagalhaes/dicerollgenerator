@@ -37,4 +37,4 @@ def try_me():
         roll_again = input(colored("Roll the Dices Again?","yellow"))
 
     else:
-        print(colored("Game over! :D","blue"))
+        print(colored("Game finished :D","blue"))
